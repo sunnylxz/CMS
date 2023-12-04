@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task0">
+    <title>登录客户端</title>
+    <shortdesc/>
+    <taskbody outputclass="display">
+        <prereq id="prereq_rmv_f2h_kzb" outputclass="display">
+            <ul id="ul_jgz_22h_kzb">
+                <li>已在当地政府采购网下载并安装<ph otherprops="浙江">政采云电子投标客户端</ph><ph otherprops="山西"
+                        >山西政府采购投标客户端</ph><ph otherprops="大连">大连市电子投标客户端</ph><ph otherprops="上海"
+                        >上海政府采购云平台</ph><ph otherprops="安徽">徽采云电子投标客户端</ph> 。或进入 <menucascade>
+                        <uicontrol>我的工作台</uicontrol>
+                        <uicontrol>项目采购</uicontrol>
+                        <uicontrol>获取采购文件</uicontrol>
+                    </menucascade>，点击页面上方 <uicontrol>更多说明</uicontrol>，在 <b>投标小助手 </b>弹窗中，点击
+                        <b>下载投标客户端</b>，完成客户端下载安装。</li>
+                <li>已完成CA申领。如有CA问题，请查看。如仍无法解决，请联系相应CA公司客服，详细信息，请查看。</li>
+                <li>已下载并安装CA驱动。进入页面，下载并安装相应驱动。<p otherprops="浙江">例如，如使用汇信CA，需下载浙江汇信CA驱动。</p></li>
+                <li>已在<ph otherprops="浙江">政采云平台</ph><ph otherprops="山西">山西政府采购云平台</ph><ph
+                        otherprops="安徽">徽采云平台</ph><ph otherprops="上海">上海政府采购云平台</ph><ph
+                        otherprops="大连">大连市政府采购云平台</ph>完成CA与账号绑定。进入 <menucascade>
+                        <uicontrol>我的工作台</uicontrol>
+                        <uicontrol>系统管理</uicontrol>
+                        <uicontrol>CA绑定与解绑</uicontrol>
+                    </menucascade>，点击 <uicontrol>给当前账号绑定CA</uicontrol>，完成CA绑定。</li>
+            </ul>
+        </prereq>
+        <context outputclass="display">供应商可通过账号密码和CA两种方式登录<ph otherprops="浙江">政采云电子投标客户端</ph><ph
+                otherprops="山西">山西政府采购投标客户端</ph><ph otherprops="大连">大连市电子投标客户端</ph><ph
+                otherprops="上海">上海政府采购云平台</ph><ph otherprops="安徽">徽采云电子投标客户端</ph>制作投标文件。 </context>
+        <steps outputclass="display">
+            <step>
+                <cmd id="cmd_bbr_w15_mzb">进入 <menucascade>
+                        <uicontrol>我的工作台</uicontrol>
+                        <uicontrol>系统管理</uicontrol>
+                        <uicontrol>成员管理</uicontrol>
+                    </menucascade> 页面。</cmd>
+            </step>
+            <step outputclass="display">
+                <cmd id="1">打开<ph otherprops="浙江">朝旭浙江政采云电子投标客户端</ph><ph otherprops="山西"
+                        >山西政府采购投标客户端</ph><ph otherprops="大连">大连市电子投标客户端</ph><ph otherprops="上海"
+                        >上海政府采购云平台</ph><ph otherprops="安徽">徽采云电子投标客户端</ph>。</cmd>
+            </step>
+            <step outputclass="display">
+                <cmd>账号密码或CA登录。</cmd>
+                <info>
+                    <ul id="ul_edl_5gh_kzb">
+                        <li>点击 <b> 账号登录</b> 标签页，输入在<ph otherprops="浙江">政采云平台</ph><ph otherprops="山西"
+                                >山西政府采购云平台</ph><ph otherprops="安徽">徽采云平台</ph><ph otherprops="上海"
+                                >上海政府采购云平台</ph><ph otherprops="大连">大连市政府采购云平台</ph>注册的账号密码，点击
+                                <b>登录</b>。<p><image href="../images/image35.png"
+                                    id="image_lrr_pgh_kzb" otherprops="浙江"/></p><p><image
+                                    href="../images/image1-shanxi.png" otherprops="山西"
+                                    id="image_hz4_sph_kzb"/></p><p><image
+                                    href="../images/image1-dalian.png" otherprops="大连"
+                                    id="image_zzx_xph_kzb"/></p><p><image
+                                    href="../images/image1-shanghai.png" otherprops="上海"
+                                    id="image_ss3_mrh_kzb"/></p></li>
+                        <li>点击 <b>CA登录</b> 标签页，选择对应的 <b>CA服务商</b>，将CA锁插入电脑，点击 <b> 登录</b>。<p><image
+                                    href="../images/image2.png" id="image_adk_xgh_kzb"
+                                    otherprops="浙江"/></p><p><image href="../images/image1-anhui.png"
+                                    otherprops="安徽" id="image_jq2_yrh_kzb"/></p><p><image
+                                    href="../images/image2-shanxi.png" otherprops="山西"
+                                    id="image_m25_gl3_kzb"/></p></li>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+        <result outputclass="display">
+            <p>进入<ph otherprops="浙江">政采云电子投标客户端</ph><ph otherprops="山西">山西政府采购投标客户端</ph><ph
+                    otherprops="大连">大连市电子投标客户端</ph><ph otherprops="上海">上海政府采购云平台</ph><ph
+                    otherprops="安徽">徽采云电子投标客户端</ph>。</p>
+            <p><image href="../images/image3.png" id="image_wkl_zgh_kzb" otherprops="浙江"/></p>
+            <p><image href="../images/image3-shanxi.png" otherprops="山西" id="image_wdk_ll3_kzb"
+                /></p>
+        </result>
+    </taskbody>
+</task>

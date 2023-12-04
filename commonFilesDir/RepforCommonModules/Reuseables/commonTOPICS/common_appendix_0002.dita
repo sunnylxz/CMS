@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_oz5_kzq_qwb">
+  <title>术语及缩略语</title>
+  <body>
+    <table id="Hlk107582563">
+      <tgroup cols="2">
+        <colspec colname="col1" colnum="1" colwidth="0.5*"/>
+        <colspec colname="col2" colnum="2" colwidth="1.5*"/>
+        <thead>
+          <row>
+            <entry>术语及缩略语</entry>
+            <entry>说明</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <b>AI</b>
+            </entry>
+            <entry>Artificial Intelligence 人工智能</entry>
+          </row>
+          <row>
+            <entry>
+              <b>ATX</b>
+            </entry>
+            <entry>Advanced Technology Extended 英特尔公司在1995年制定的主板规格。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>CFM</b>
+            </entry>
+            <entry>cubic feet per minute立方英尺每分钟，是气体流量单位。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>CV</b>
+            </entry>
+            <entry>Computer Vision 计算机视觉，开发赋予计算机视觉能力的技术。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>ECC</b>
+            </entry>
+            <entry>Error Correcting Code 是一种能够实现“错误检查和纠正”的技术。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>EEPROM</b>
+            </entry>
+            <entry>Electrically Erasable Programmable read only memory 带电可擦可编程只读存储器。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>FCBGA</b>
+            </entry>
+            <entry>Flip Chip Ball Grid Array 倒装芯片球栅格阵列的封装格式，也是图形加速芯片最主要的封装格式。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>FP16</b>
+            </entry>
+            <entry> 半精度浮点数，即16bit的浮点数，用1bit作标识，用5bit表示指数，10bit表示小数。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>FP32</b>
+            </entry>
+            <entry> 单精度浮点数，即32bit的浮点数，用1bit作标识，用8bit表示指数，23bit表示小数。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>FPS</b>
+            </entry>
+            <entry>Frames Per Second 每秒传输帧数，通俗来讲就是指动画或视频的画面数。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>GDDR</b>
+            </entry>
+            <entry>Graphics Double Data Rate，GDDR DRAM是专为图形处理器(GPU)和加速器设计的存储器。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>GDDR6</b>
+            </entry>
+            <entry>Graphics Double Data Rate, version 6，属于第六代版图形用双倍数据传输率存储器（即显卡的缓存）。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>GPU</b>
+            </entry>
+            <entry>graphics processing unit 图形处理单元。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>INT8/INT16</b>
+            </entry>
+            <entry> 进行8位、16位定点运算。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>I2C</b>
+            </entry>
+            <entry>Inter－Integrated Circuit，是由Philips公司开发的一种简单、双向二线制同步串行总线。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>NLP</b>
+            </entry>
+            <entry>Nature Language Processor 自然语言处理。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>PCIe</b>
+            </entry>
+            <entry>Peripheral Component Interconnect Express，是一种高速串行计算机扩展总线标准。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>PCIe 4.0 x16</b>
+            </entry>
+            <entry>PCIe 4.0一种最新的协议传输标准，PCIe 4.0×16指最高的 PCIe 4.0能够支持16GT/s的传输速率。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>PIN</b>
+            </entry>
+            <entry> 管脚，是从集成电路（芯片）内部电路引出与外围电路的接线，所有的管脚构成了这块芯片的接口。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>RH</b>
+            </entry>
+            <entry>Relative Humidity 相对湿度，指空气中水汽压与相同温度下饱和水汽压的百分比。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>SMBUS</b>
+            </entry>
+            <entry>System Management Bus 系统管理总线。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>TDP</b>
+            </entry>
+            <entry>Thermal Design Power 散热设计功耗。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>TFLOPS</b>
+            </entry>
+            <entry> teraFLOPS，每秒浮点运算多少万亿次。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>TOPS</b>
+            </entry>
+            <entry>Tera OPS, Tera Operation Per Second，处理器计算能力单位，1TOPS代表处理器每秒钟可进行一万亿次基本运算操作。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>X86</b>
+            </entry>
+            <entry>泛指一系列基于Intel 8086且向后兼容的中央处理器指令集架构。</entry>
+          </row>
+          <row>
+            <entry>
+              <b>XPU-R</b>
+            </entry>
+            <entry> 昆仑芯纯自主研发的芯片硬件架构，XPU-R用在昆仑芯2代系列产品。</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

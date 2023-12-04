@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ej2_fzq_qwb">
+  <title>运行安全</title>
+  <body>
+    <ul id="ul_fj2_fzq_qwb">
+      <li>仅专业工程师或我司授权人员才能安全操作该设备。</li>
+      <li>请保持设备清洁、无尘，请勿将设备放置在潮湿的地方或使液体进入设备。</li>
+      <li>设备上电前，请确保设备已可靠接地。</li>
+      <li>为确保充分散热，请勿堵塞设备散热孔。</li>
+    </ul>
+  </body>
+</topic>

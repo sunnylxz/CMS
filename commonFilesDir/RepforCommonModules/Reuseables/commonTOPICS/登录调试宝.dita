@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="id_128888">
+  <title>登录调试宝 APP</title>
+  <prolog>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2022-05-23"/>
+      <!--RAYFAN-->
+      <revised modified="2022-05-24"/>
+      <!--RAYFAN-->
+      <revised modified="2022-05-27"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="Everest "/>
+      <data name="产品版本" value="1"/>
+      <data name="手册类型" value="规格书"/>
+      <data name="手册秘级" value="秘密"/>
+      <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+      <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+      <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd> 点击“ON PRO 登录”<image
+            href="images/Spring%E7%B3%BB%E5%88%97%E6%8C%89%E9%94%AE%E5%9C%BA%E6%99%AF%E9%9D%A2%E6%9D%BF_%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C_p8-1.png"
+            id="image_njj_bzv_ptb" placement="break"/></cmd>
+      </step>
+      <step>
+        <cmd>输入个人账号和密码</cmd>
+      </step>
+      <step>
+        <cmd>勾选“我已阅读并同意</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

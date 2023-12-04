@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_vqb_dzq_qwb">
+  <title>读者对象</title>
+  <body>
+    <p>本文档的主要读者对象包括：</p>
+    <ul id="ul_srt_mhc_qwb">
+      <li>
+        <p>企业终端用户</p>
+      </li>
+      <li>
+        <p>企业管理员</p>
+      </li>
+    </ul>
+  </body>
+</topic>

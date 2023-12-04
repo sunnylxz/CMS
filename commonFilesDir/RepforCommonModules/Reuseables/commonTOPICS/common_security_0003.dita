@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_lpt_fzq_qwb">
+  <title>电气安全</title>
+  <body>
+    <ul id="ul_qpt_fzq_qwb">
+      <li>请仔细检查工作区域内是否存在潜在的危险，如地面潮湿、或接地不可靠等。</li>
+      <li>请勿在设备带电状态下进行维护操作。</li>
+    </ul>
+  </body>
+</topic>

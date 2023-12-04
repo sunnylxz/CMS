@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"[]>
+<map>
+  <title>跨手册类型和产品类型的公共 TOPIC 内容模块</title>
+  <topicmeta>
+    <author type="contributor">lining</author>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--lining-->
+      <revised modified="2022-01-09"/>
+      <!--RAYFAN-->
+      <revised modified="2022-05-23"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="Everest "/>
+      <data name="产品版本" value="1"/>
+      <data name="手册类型" value="规格书"/>
+      <data name="手册秘级" value="秘密"/>
+      <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+      <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+      <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+    </metadata>
+  </topicmeta>
+  <keydef keys="legal" href="commonTOPICS/法律声明.dita" format="dita">
+    <topicmeta>
+      <navtitle>法律声明</navtitle>
+    </topicmeta>
+  </keydef>
+  <keydef keys="intendedaudiences" href="commonTOPICS/读者对象.dita" format="dita">
+    <topicmeta>
+      <navtitle>读者对象</navtitle>
+    </topicmeta>
+  </keydef>
+  <keydef keys="symbol" href="commonTOPICS/符号.dita" format="dita">
+    <topicmeta>
+      <navtitle>符号定义</navtitle>
+    </topicmeta>
+  </keydef>
+  <keydef keys="safetynotice" href="commonTOPICS/安全警告.dita" format="dita">
+    <topicmeta>
+      <navtitle>安全警告</navtitle>
+    </topicmeta>
+  </keydef>
+  <!--keydef keys="nowTime" href="commonTOPICS/cf_dateTime/cf_nowTime.dita" format="dita">
+    <topicmeta>
+      <navtitle>产品中有害物质的名称及含量</navtitle>
+    </topicmeta>
+  </keydef-->
+  
+  
+</map>

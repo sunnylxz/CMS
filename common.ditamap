@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"[]>
+<map>
+  <title>公共模块一纵</title>
+  <topicmeta>
+    <author type="contributor">Ray</author>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--Ray-->
+      <revised modified="2021/10/06"/>
+      <!--RAYFAN-->
+      <revised modified="2022-03-31"/>
+      <!--RAYFAN-->
+      <revised modified="2022-04-11"/>
+      <!--RAYFAN-->
+      <revised modified="2022-04-12"/>
+      <!--RAYFAN-->
+      <revised modified="2022-05-14"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="AI加速卡"/>
+      <data name="产品版本" value="2"/>
+      <data name="手册类型" value="产品手册"/>
+      <data name="手册秘级" value="秘密"/>
+      <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+      <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+      <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+    </metadata>
+  </topicmeta>
+  <keydef keys="keypdf5type" href="commonFilesDir/RepforCommonModules/Reuseables/keydef_pdf.ditamap"
+    format="ditamap">
+    <topicmeta>
+      <navtitle>Collection of PDF titles</navtitle>
+    </topicmeta>
+  </keydef>
+  <!--<keydef keys="metadata" href="commonFilesDir/RepforCommonModules/Taxonomy/metadata.ditamap"
+    format="ditamap">
+    <topicmeta>
+      <navtitle>metadata</navtitle>
+    </topicmeta>
+  </keydef>-->
+  <topicref href="../commonFilesDir/RepforCommonModules/Reuseables/reusableComponents.dita"/>
+</map>

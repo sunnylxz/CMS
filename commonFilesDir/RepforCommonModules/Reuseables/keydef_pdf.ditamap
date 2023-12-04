@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>PDF 首页变量定义集</title>
+  <topicmeta>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2022-03-31"/>
+      <!--RAYFAN-->
+      <revised modified="2022-04-06"/>
+      <!--RAYFAN-->
+      <revised modified="2022-04-11"/>
+      <!--RAYFAN-->
+      <revised modified="2023-04-12"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="AI加速卡"/>
+      <data name="产品版本" value="2"/>
+      <data name="手册类型" value="产品手册"/>
+      <data name="手册秘级" value="秘密"/>
+      <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+      <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+      <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+    </metadata>
+  </topicmeta>
+  
+  <keydef keys="company" navtitle="公司名称">
+    <topicmeta>
+      <keywords>
+        <keyword>大疆创新科技有限公司</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="currentyear" navtitle="当前年份" product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000007-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>2023</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
+  <keydef keys="PRODUCTNAME" navtitle="产品名称"
+    product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>制作标书</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="PRODUCTNAME" navtitle="产品名称" product="8003-000006-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>PRO</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="PRODUCTNAME" navtitle="产品名称" product="8003-000007-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>CV1000 Cspeed Vision 3D电子内窥镜</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="BOOKTITLE" navtitle="手册名称" product="8003-000001-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>用户手册</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="BOOKTITLE" navtitle="手册名称" product="8003-000002-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>C1000 器械和附件说明书</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="BOOKTITLE" navtitle="手册名称" product="8003-000004-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>C1000 器械和附件再处理说明书</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="BOOKTITLE" navtitle="手册名称" product="8003-000006-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>LG1000 LOGIC 3D CR内窥镜系统说明书</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="BOOKTITLE" navtitle="手册名称" product="8003-000007-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>CV1000 Cspeed Vision 3D电子内窥镜系统说明书</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+
+  <keydef keys="release" navtitle="版本号" product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000007-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>B-0001</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+
+  <keydef keys="releasedate" navtitle="文档时间">
+    <topicmeta>
+      <keywords>
+        <keyword>2023-01-29</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+
+  <keydef keys="releasedate" navtitle="文档时间">
+    <topicmeta>
+      <keywords>
+        <keyword>2023-01-11</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+
+  <keydef keys="releasedate" navtitle="文档时间">
+      <topicmeta>
+        <keywords>
+          <keyword>2023-02-10</keyword>
+        </keywords>
+      </topicmeta>
+  </keydef>
+
+  <keydef keys="pn" navtitle="PN" product="8003-000001-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>8003-000001-B-0001</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="pn" navtitle="PN" product="8003-000002-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>8003-000002-B-0001</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="pn" navtitle="PN" product="8003-000004-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>8003-000004-B-0001</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="pn" navtitle="PN" product="8003-000006-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>8003-000006-B-0001</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="pn" navtitle="PN" product="8003-000007-B-0001">
+    <topicmeta>
+      <keywords>
+        <keyword>8003-000007-B-0001</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+
+</map>

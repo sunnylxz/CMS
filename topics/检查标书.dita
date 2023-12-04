@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task0">
+    <title>检查标书 </title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>供应商确认系统对标书的检查结果。  </context>
+        <steps>
+            <step>
+                <cmd>在 <b>标书检查</b> 页面，系统自动检查标书情况，页面展示 <b>检测结果</b>。如检查出问题，系统提示异常。根据问题进行修改，完成后点击
+                        <b>重新检查</b>。</cmd>
+                <info>
+                    <p><image href="../images/image26.png" scope="external" id="image_o22_blh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd> 确认检测项目全都无误，点击 <b>下一步</b>。</cmd>
+                <info>
+                    <p><image href="../images/image27.png" scope="external" id="image_b4z_fmh_kzb"
+                        /></p>
+                    <p>
+                        <note id="note_w2p_3mh_kzb">标书检查完成，已关联内容会被锁定。如需更改，点击
+                            <b>恢复编辑</b>，即可重新操作。</note>
+                    </p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

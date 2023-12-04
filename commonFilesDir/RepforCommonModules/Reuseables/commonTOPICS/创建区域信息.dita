@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="id_128888" outputclass="google-structured-data-steps">
+  <title>创建区域信息</title>
+  <prolog>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2022-05-23"/>
+      <!--RAYFAN-->
+      <revised modified="2022-05-24"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="Everest "/>
+      <data name="产品版本" value="1"/>
+      <data name="手册类型" value="规格书"/>
+      <data name="手册秘级" value="秘密"/>
+      <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+      <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+      <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+    </metadata>
+  </prolog>
+  <taskbody>
+    
+ 
+    
+    <steps>
+      <step>
+        <cmd> <image
+          href="images/Spring%E7%B3%BB%E5%88%97%E6%8C%89%E9%94%AE%E5%9C%BA%E6%99%AF%E9%9D%A2%E6%9D%BF_%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C_p10-1.png"
+          id="image_pjh_lgw_ptb"/></cmd>
+      </step>
+      <step>
+        <cmd>点击<wintitle>区域管理</wintitle>
+        </cmd>
+      </step>
+      
+      <step>
+        <cmd><image
+          href="images/Spring%E7%B3%BB%E5%88%97%E6%8C%89%E9%94%AE%E5%9C%BA%E6%99%AF%E9%9D%A2%E6%9D%BF_%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C_p10-2.png"
+          id="image_pvm_mgw_ptb"/></cmd>
+      </step>
+      <step><cmd>点击<wintitle>+</wintitle>创建楼层</cmd></step>
+      <step>
+        <cmd>输入楼层名称</cmd>
+      </step>
+      <step>
+        <cmd>点击“确认</cmd>
+      </step>
+      <step>
+        <cmd>  <image
+          href="images/Spring%E7%B3%BB%E5%88%97%E6%8C%89%E9%94%AE%E5%9C%BA%E6%99%AF%E9%9D%A2%E6%9D%BF_%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C_p11-1.png"
+          id="image_yzq_ngw_ptb"/></cmd>
+      </step>
+      <step>
+        <cmd>点击所需楼层，创建房间</cmd>
+      </step>
+      <step>
+        <cmd>编辑房间信息</cmd>
+      </step>
+      <step>
+        <cmd>点击<wintitle>保存</wintitle></cmd>
+      </step>
+      <step>
+        <cmd> <image
+          href="images/Spring%E7%B3%BB%E5%88%97%E6%8C%89%E9%94%AE%E5%9C%BA%E6%99%AF%E9%9D%A2%E6%9D%BF_%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C_p11-2.png"
+          id="image_frj_4gw_ptb"/></cmd>
+      </step>
+    </steps>
+   
+  </taskbody>
+</task>

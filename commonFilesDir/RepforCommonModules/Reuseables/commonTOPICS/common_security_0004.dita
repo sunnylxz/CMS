@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_lnk_gzq_qwb">
+  <title>安全注意事项</title>
+  <body>
+    <ul id="ul_onk_gzq_qwb">
+      <li>进行设备维护时，请将设备放在干净、平稳的工作台或地面上。</li>
+      <li>进行设备维护时，为避免设备过热造成人身伤害，请确保设备冷却后再操作。</li>
+      <li>使用工具进行维护时，务必按照正确的操作方式进行，以免危及人身安全或损伤设备。</li>
+      <li>放置设备时，请勿用力过猛。</li>
+    </ul>
+  </body>
+</topic>

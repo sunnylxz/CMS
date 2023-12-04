@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task0">
+    <title>选择标项 </title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>供应商选择投标书的响应标项。 </context>
+        <steps>
+            <step>
+                <cmd
+                    conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/cmd_bbr_w15_mzb"
+                />
+            </step>
+            <step>
+                <cmd conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/1"/>
+            </step>
+            
+    
+                <step>
+                <cmd>在 <b>选择标项</b> 页面，选择响应标项，点击 <b>下一步</b>。</cmd>
+                <info>
+                    <p><image href="../images/image8.png" id="image_y52_c3h_kzb"/></p>
+                </info>
+            </step>
+       
+            
+            <step>
+                <cmd>在弹窗中点击 <b>确定</b>，进入 <b>完善基本信息</b> 页面。 </cmd>
+                <info>
+                    <p><image href="../images/image9.png" id="image_l3n_c3h_kzb"/></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "map.dtd">
+<bookmap id="bookmap_26F29B320CC448C6BDEE032B001C3627" xml:lang="zh-CN"
+    class="- map/map bookmap/bookmap " chunk="to-content">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary "
+            ><!--            <keyword keyref="PRODUCTNAME"/>--></booklibrary>
+        <mainbooktitle>
+            <keyword keyref="PRODUCTNAME"/>
+            <keyword keyref="BOOKTITLE"/>
+        </mainbooktitle>
+        <booktitlealt class="- topic/ph bookmap/booktitlealt ">
+            <keyword keyref="pn"/>
+            <keyword keyref="release"/>
+            <keyword keyref="releasedate"/>
+            <keyword keyref="company"/>
+            <keyword keyref="currentyear"/>
+        </booktitlealt>
+    </booktitle>
+    <bookmeta>
+        <author type="contributor">RAYFAN</author>
+        <publisherinformation>
+            <published>
+                <completed>
+                    <day>28</day>
+                    <month>3</month>
+                    <year>2022</year>
+                </completed>
+            </published>
+        </publisherinformation>
+        <metadata>
+            <data name="产品类别" value="AI加速卡"/>
+            <data name="产品版本" value="2"/>
+            <data name="手册类型" value="产品手册"/>
+            <data name="手册秘级" value="秘密"/>
+            <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+            <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+            <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+        </metadata>
+    </bookmeta>
+    <frontmatter product="8003-000002-B-0001">
+        <booklists>
+            <toc/>
+        </booklists>
+    </frontmatter>
+    <chapter href="BidMakingMap.ditamap" format="ditamap" otherprops="浙江"/>
+    <chapter href="common.ditamap" processing-role="resource-only" format="ditamap" toc="no"/>
+    <chapter href="../commonFilesDir/RepforCommonModules/Reuseables/Horizontalcommon.ditamap"
+        processing-role="resource-only" format="ditamap" toc="no"/>
+    <backmatter
+        product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000007-B-0001">
+        <booklists product="8003-000001-B-0001">
+            <indexlist/>
+        </booklists>
+    </backmatter>
+</bookmap>

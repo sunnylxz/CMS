@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task0">
+    <title>制作投标文件 </title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <prereq id="prereq_mjj_sjj_kzb">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</prereq>
+        <context>供应商获取采购文件之后，在政采云投标客户端编制投标文件。  </context>
+        <steps>
+            <step>
+                <cmd
+                    conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/cmd_bbr_w15_mzb"
+                />
+            </step>
+            <step>
+                <cmd conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/1"/>
+            </step>
+            <step>
+                <cmd> 进入 <ph otherprops="浙江">政采云平台</ph><ph otherprops="山西">山西政府采购云平台</ph><ph
+                        otherprops="安徽">徽采云平台</ph><ph otherprops="上海">上海政府采购云平台</ph><ph
+                        otherprops="大连">大连市政府采购云平台</ph>页面，点击 <b>进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                        <b>搜索</b>，搜索项目。 <image
+                        conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/image_lrr_pgh_kzb"
+                        id="image_ihx_4zm_lzb"/><image href="../images/image4.png" id="zcyImg-24846"
+                        scope="external"/>
+                </cmd>
+            </step>
+            <step>
+                <cmd> 点击<b> 编制</b>。<image href="../images/image5.png" id="zcyImg-24847"
+                        scope="external"/></cmd>
+            </step>
+            <step>
+                <cmd>
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step>
+                <cmd> 在 <b>选择CA</b> 弹窗中，选择对应的CA服务商。（本文以<ph otherprops="浙江" audience="供应商"
+                        >浙江汇信CA</ph>为例）<image
+                        conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/image_lrr_pgh_kzb"
+                        id="image_vfd_mrv_mzb"/>
+                </cmd>
+            </step>
+        </steps>
+        <result>
+            <p>进入 <b>编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。 <image placement="break"
+                    href="../images/image7.png"/>
+            </p>
+        </result>
+    </taskbody>
+</task>

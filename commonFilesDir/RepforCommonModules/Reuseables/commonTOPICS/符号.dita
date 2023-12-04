@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="id_6">
+      <title>符号定义</title>
+  <prolog>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2022-05-23"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="Everest "/>
+      <data name="产品版本" value="1"/>
+      <data name="手册类型" value="规格书"/>
+      <data name="手册秘级" value="秘密"/>
+      <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+      <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+      <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+    </metadata>
+  </prolog>
+      <body>
+        <p>
+在本手册中可能出现下列符号，它们所代表的含义如下。</p>
+        <table frame="all" colsep="1" rowsep="1">
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>符号</entry>
+            <entry>说明</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry><image href="images/danger.png" id="image_uh4_c4w_ptb"/></entry>
+            <entry> 用于警示紧急的危险情形，若不避免，将会导致人员死亡或严重的人身伤害。</entry>
+          </row>
+          <row>
+            <entry><image href="images/warning.png" id="image_kps_c4w_ptb"/></entry>
+            <entry> 用于警示潜在的危险情形，若不避免，可能会导致人员死亡或严重的人身伤害。</entry>
+          </row>
+          <row>
+            <entry><image href="images/caution.png" id="image_jd5_c4w_ptb"/></entry>
+            <entry> 用于警示潜在的危险情形，若不避免，可能会导致中度或轻微的人身伤害。</entry>
+          </row>
+          <row>
+            <entry><image href="images/attention.png" id="image_jpv_c4w_ptb"/></entry>
+            <entry>
+              <p>用于传递设备或环境安全警示信息，若不避免，可能会导致设备损坏、数据丢失、设备性能降低或其它不可预知的结果。</p>
+              <p>“注意”不涉及人身伤害。</p>
+            </entry>
+          </row>
+          <row>
+            <entry><image href="images/note.png" id="image_dby_c4w_ptb"/></entry>
+            <entry>
+              <p>用于突出重要 / 关键信息、最佳实践和小窍门等。 </p>
+              <p>“说明”不是安全警示信息，不涉及人身、设备及环境伤害信息。</p>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+      </body>
+    </topic>

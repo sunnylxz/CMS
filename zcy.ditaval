@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <prop att="audience" val="供应商" action="flag">
+        <startflag>
+            <alt-text>高亮处理</alt-text>
+        </startflag>
+    </prop>
+    <prop att="otherprops" val="嵊州" action="exclude"/>
+    <prop action="exclude" att="product" val="8003-000001-B-0001"/>
+    <prop action="passthrough" att="platform" val="linux"/>
+</val>

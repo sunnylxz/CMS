@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"[]>
+<map>
+  <title>为MEDIA 文件夹下的图形定义的键2</title>
+  <topicmeta>
+    <author type="contributor">RAYFAN</author>
+    <author type="contributor">Ray</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2021-06-28"/>
+      <!--Ray-->
+      <revised modified="2021/10/06"/>
+      <!--RAYFAN-->
+      <revised modified="2021-10-27"/>
+    </critdates>
+  </topicmeta>
+  <!-- Uncomment any key definition for images localized to Japanese.
+       These keys override the same keys defined for the English
+       images.
+     -->
+  
+  
+  <keydef keys="Thunder-MultiDevice-003" href="Thunder-MultiDevice-003.pdf" format="pdf">
+    <topicmeta>
+      <navtitle>Thunder-MultiDevice-003.PDF</navtitle>
+    </topicmeta>
+  </keydef>
+  
+  
+  <keydef keys="media-001" href="https://1253467224.vod2.myqcloud.com/e253c72bvodtransgzp1253467224/5b1ba00b5285890782238101827/v.f40.mp4" format="mp4" scope="external">
+    <topicmeta>
+      <navtitle>销售云简介</navtitle>
+    </topicmeta>
+  </keydef>
+  
+  
+
+</map>

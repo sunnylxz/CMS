@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task0">
+    <title>电子签名 </title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>供应商对响应文件进行签章。<p>各区划支持的CA类型不同，本主题以浙江汇信CA为例。</p></context>
+        <steps>
+            <step>
+                <cmd
+                    conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/cmd_bbr_w15_mzb"
+                />
+            </step>
+            <step>
+                <cmd> 在 <b>电子签名</b> 页面，选择响应项，将鼠标悬停在公章上，点击 <b>单页签/多页签/骑缝章</b>。 </cmd>
+                <info>
+                    <p><image href="../images/image28.png" scope="external" id="image_lbx_xmh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>整印章大小，将印章拖动至盖章处，点击 <b>确认签章</b>。</cmd>
+                <info>
+                    <p><image href="../images/image29.png" scope="external" id="image_unh_xmh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>在 <b>提示</b> 弹窗中点击 <b>确定</b>。 </cmd>
+                <info>
+                    <p><image href="../images/image30.png" scope="external" id="image_f4v_wmh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>（可选）如需撤销当前项的签章，点击 <b>撤销签章</b>。</cmd>
+                <info>
+                    <p><image href="../images/image31.png" scope="external" id="image_alh_wmh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>所有文件签章完成后，点击 <b>下一步</b>。</cmd>
+                <info>
+                    <p><image href="../images/image32.png" scope="external" id="image_b4z_fmh_kzb"
+                        /></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

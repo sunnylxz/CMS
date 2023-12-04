@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="id_5">
+    <title>安全警告 </title>
+  <prolog>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2022-05-25"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="Everest "/>
+      <data name="产品版本" value="1"/>
+      <data name="手册类型" value="规格书"/>
+      <data name="手册秘级" value="秘密"/>
+      <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+      <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+      <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+    </metadata>
+  </prolog>
+    <body>
+    <ul id="ul_ggn_1wn_ptb">
+      <li>
+        <p>本设备的安装及调试工作必须由我司或我司指派的机构进行。其电气安装的计划和施工，必须遵守当地相关的安全标准和法规。</p>
+      </li>
+      <li>
+        <p>未按照本说明书进行安装及接线的，所造成的一切后果皆与我司无关。</p>
+      </li>
+      <li>
+        <p>请不要私自拆装或更换零部件，否则可能会导致机械故障、电击、火灾或身体伤害。</p>
+      </li>
+      <li>
+        <p>请将一切维修工作交由我司售后部门或指定机构进行，本产品的保修范围不适用于因用户拆卸产品而导 致的故障。</p>
+      </li>
+    </ul>
+    </body>
+  </topic>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"[]>
+<map>
+    <title>为Web设计的内容复用主容器</title>
+    <topicmeta>
+    <author type="contributor">RAYFAN</author>
+    <author type="contributor">Ray</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2021-06-28"/>
+      <!--Ray-->
+      <revised modified="2021/10/06"/>
+      <!--RAYFAN-->
+      <revised modified="2022-04-11"/>
+      <!--RAYFAN-->
+      <revised modified="2022-05-22"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="AI加速卡"/>
+      <data name="产品版本" value="2"/>
+      <data name="手册类型" value="产品手册"/>
+      <data name="手册秘级" value="秘密"/>
+      <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+      <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+      <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+    </metadata>
+  </topicmeta>
+    <!-- Mapping between key definitions and various product names used in the manual. -->
+    
+  <mapref href="reusableCommonTopics.ditamap"/>
+    <!-- Reusable image references -->
+    <topicref href="../Media/images-keys.ditamap" format="ditamap"/>
+    <keydef keys="reusables" href="reusableComponents.dita"/>
+    <!-- Topic containing various reusable components -->
+</map>

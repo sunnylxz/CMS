@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task0">
+    <title>关联标书 </title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>供应商填写开标一览表，并将标项的各响应项关联至标书对应页码，方便专家评审。  </context>
+        <steps>
+            <step>
+                <cmd
+                    conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/cmd_bbr_w15_mzb"
+                />
+            </step>
+            <step>
+                <cmd> 在 <b>标书关联</b> 页面，点击 <b>报价信息</b>，填写 <b>开标一览表</b>。</cmd>
+                <info>
+                    <p><image href="../images/image22.png" scope="external" id="image_o22_blh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd> 选择需要定位的响应项，将标书翻至对应页面，点击 <b>关联定位</b>。</cmd>
+                <info>
+                    <p><image href="../images/image23.png" scope="external" id="image_p2l_xlh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>（可选）如对招标文件的某项要求不能提供响应的内容，点击 <b>放弃关联</b>。</cmd>
+                <info>
+                    <p><image href="../images/image24.png" scope="external" id="image_lyw_xlh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>所有响应文件关联后，点击 <b>下一步</b>，在 <b>确认报价</b> 弹窗中，点击 <b>确认并继续</b>，进入检查标书页面。</cmd>
+                <info>
+                    <p><image href="../images/image25.png" scope="external" id="image_hwk_zlh_kzb"
+                        /></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"[]>
+<map>
+  <title>可复用的产品名称</title>
+  <topicmeta>
+    <author type="contributor">Ray</author>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--Ray-->
+      <revised modified="2021/10/06"/>
+      <!--RAYFAN-->
+      <revised modified="2021-10-29"/>
+      <!--RAYFAN-->
+      <revised modified="2022-04-11"/>
+      <!--RAYFAN-->
+      <revised modified="2022-04-12"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="Everest "/>
+      <data name="产品版本" value="2"/>
+      <data name="手册类型" value="规格书"/>
+      <data name="手册秘级" value="秘密"/>
+      <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+      <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+      <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+    </metadata>
+  </topicmeta>
+  
+  <keydef keys="version" product="XREUG XREINSTALL RFP">
+    <topicmeta>
+      <keywords>
+        <keyword>5G</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
+  <keydef keys="version" product="RFP">
+    <topicmeta>
+      <keywords>
+        <keyword/>
+      </keywords>
+    </topicmeta>
+  </keydef>
+
+
+  
+</map>

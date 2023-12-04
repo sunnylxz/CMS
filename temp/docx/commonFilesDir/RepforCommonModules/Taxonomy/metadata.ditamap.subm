@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><subjectScheme xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- map/map subjectScheme/subjectScheme " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map subjectScheme)                            a(props deliveryTarget)                            (topic hazard-d)                            (topic hi-d)                            (topic ut-d)   " processing-role="resource-only" toc="no">
+    <subjectHead class="- map/topicref subjectScheme/subjectHead " linking="normal">
+        <subjectHeadMeta class="- map/topicmeta subjectScheme/subjectHeadMeta ">
+            <navtitle class="- topic/navtitle ">政府采购云</navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    
+    <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="audienceKey">
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="供应商"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="采购单"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="代理机构"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="专家"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="采购监管"/>
+        
+    </subjectdef>
+    
+    <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="region">
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="浙江">
+         <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="杭州" navtitle="杭州"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="诸暨" navtitle="诸暨"/>      
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="嵊州" navtitle="嵊州"/>
+        </subjectdef>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="北京"/>
+        
+    </subjectdef>
+    <hasInstance class="- map/topicref subjectScheme/hasInstance ">
+        
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="业务" navtitle="业务类型">
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="8003-000001-B-0001" navtitle="项目采购"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="8003-000002-B-0001" navtitle="电子卖场"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="8003-000004-B-0001" navtitle="入驻"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="8003-000006-B-0001" navtitle="行业馆"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="8003-000007-B-0001" navtitle="框架协议"/>    
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="8003-000003-A-0001" navtitle="商家业务"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="8003-000014-A-0001" navtitle="公款竞争性存放"/>
+            
+
+        </subjectdef>
+    </hasInstance>
+    
+    
+    
+    
+    
+    
+    
+    <enumerationdef class="- map/topicref subjectScheme/enumerationdef ">
+        <attributedef class="- topic/data subjectScheme/attributedef " name="product" translate="no"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keyref="业务"/>
+    </enumerationdef>
+    
+    <enumerationdef class="- map/topicref subjectScheme/enumerationdef ">
+        <attributedef class="- topic/data subjectScheme/attributedef " name="audience" translate="no"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keyref="audienceKey"/>
+    </enumerationdef>
+    
+    
+    <enumerationdef class="- map/topicref subjectScheme/enumerationdef ">
+        <attributedef class="- topic/data subjectScheme/attributedef " name="otherprops" translate="no"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keyref="region"/>
+    </enumerationdef>
+    
+</subjectScheme>

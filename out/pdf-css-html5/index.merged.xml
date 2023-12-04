@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/D:/OxygenXMLAuthor24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/OxygenXMLAuthor24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/OxygenXMLAuthor24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/publishing-template/css/oxygen.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/publishing-template/css/yeastar-common.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/publishing-template/pdf-css/yeastar-pdf-customization-zh-CN-xiaoshouyi.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/publishing-template/css/PA.css'?>
+<bookmap xmlns:css-param="http://www.oxygenxml.com/extensions/publishing/dita/css/params" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" chunk="to-content" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" id="bookmap_26F29B320CC448C6BDEE032B001C3627" specializations="@props/deliveryTarget" xml:lang="zh-CN" xtrc="bookmap:1;4:59" xtrf="file:/D:/GitRepTrial/zcygov/index.ditamap" css-param:numbering="deep-chapter-scope-no-page-reset"><oxy:front-page class="- front-page/front-page "><bookmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta bookmap/bookmeta ">
+        <author class="- topic/author " type="contributor">RAYFAN</author>
+        <publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation>
+        <metadata class="- topic/metadata ">
+            <data class="- topic/data " name="产品类别" value="AI加速卡"/>
+            <data class="- topic/data " name="产品版本" value="2"/>
+            <data class="- topic/data " name="手册类型" value="产品手册"/>
+            <data class="- topic/data " name="手册秘级" value="秘密"/>
+            <data class="- topic/data " name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+            <data class="- topic/data " name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+            <data class="- topic/data " name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+        </metadata>
+    </bookmeta><oxy:front-page-title class="- front-page/front-page-title "><booktitle xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title bookmap/booktitle ">  <booklibrary class="- topic/ph bookmap/booklibrary "/>  <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">  <keyword class="- topic/keyword " keyref="PRODUCTNAME" product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001">制作标书</keyword>  <keyword class="- topic/keyword " keyref="BOOKTITLE" product="8003-000002-B-0001">C1000 器械和附件说明书</keyword>  </mainbooktitle>  <booktitlealt class="- topic/ph bookmap/booktitlealt ">  <keyword class="- topic/keyword " keyref="pn" product="8003-000002-B-0001">8003-000002-B-0001</keyword>  <keyword class="- topic/keyword " keyref="release" product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000007-B-0001">B-0001</keyword>  <keyword class="- topic/keyword " keyref="releasedate">2023-01-29</keyword>  <keyword class="- topic/keyword " keyref="company">大疆创新科技有限公司</keyword>  <keyword class="- topic/keyword " keyref="currentyear" product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000007-B-0001">2023</keyword>  </booktitlealt>  </booktitle></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <booktitle class="- topic/title bookmap/booktitle ">  <booklibrary class="- topic/ph bookmap/booklibrary "/>  <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">  <keyword class="- topic/keyword " keyref="PRODUCTNAME" product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001">制作标书</keyword>  <keyword class="- topic/keyword " keyref="BOOKTITLE" product="8003-000002-B-0001">C1000 器械和附件说明书</keyword>  </mainbooktitle>  <booktitlealt class="- topic/ph bookmap/booktitlealt ">  <keyword class="- topic/keyword " keyref="pn" product="8003-000002-B-0001">8003-000002-B-0001</keyword>  <keyword class="- topic/keyword " keyref="release" product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000007-B-0001">B-0001</keyword>  <keyword class="- topic/keyword " keyref="releasedate">2023-01-29</keyword>  <keyword class="- topic/keyword " keyref="company">大疆创新科技有限公司</keyword>  <keyword class="- topic/keyword " keyref="currentyear" product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000007-B-0001">2023</keyword>  </booktitlealt>  </booktitle>
+    
+    <frontmatter class="- map/topicref bookmap/frontmatter " product="8003-000002-B-0001"><booklists class="- map/topicref bookmap/booklists " product="8003-000002-B-0001"/></frontmatter>
+    <chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_1" otherprops="浙江" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task0"><resourceid appid="task0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">登录客户端 -条件处理</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></topicmeta></chapter><chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_2" otherprops="诸暨 浙江" product="8003-000002-B-0001" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task0"><resourceid appid="task0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">选择标项-条件处理 </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></topicmeta></chapter><chapter audience="采购单 供应商" is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_3" otherprops="浙江" type="task" data-ditaval-action="flag"><topicmeta class="- map/topicmeta " data-topic-id="task0"><resourceid appid="task0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">完善基本信息</navtitle><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></topicmeta><ditaval-startprop class="+ topic/foreign ditaot-d/ditaval-startprop "><prop action="flag"><startflag action="flag"><alt-text>高亮处理</alt-text></startflag></prop></ditaval-startprop><ditaval-endprop class="+ topic/foreign ditaot-d/ditaval-endprop "><prop action="flag"/></ditaval-endprop></chapter><chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_4" otherprops="浙江" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task0"><resourceid appid="task0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">制作和导入投标（响应）文件 </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></topicmeta></chapter><chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_5" otherprops="杭州 浙江" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task0"><resourceid appid="task0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">关联标 </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></topicmeta></chapter><chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_6" otherprops="浙江" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task0"><resourceid appid="task0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">检查标书 </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></topicmeta></chapter><chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_7" otherprops="浙江" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task0"><resourceid appid="task0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">电子签名 </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></topicmeta></chapter><chapter is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_8" otherprops="浙江" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task0"><resourceid appid="task0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">生成电子标书</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></topicmeta></chapter>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?>
+    <backmatter class="- map/topicref bookmap/backmatter " product="8003-000001-B-0001 8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000007-B-0001"/>
+</opentopic:map><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_1" topicrefclass="- map/topicref bookmap/chapter " otherprops="浙江" nd:nd-id="task0" oid="task0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">登录客户端 -条件处理</ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u ">投标文件</u></xref>。
+            <pre class="- topic/pre " id="unique_1_Connect_42_pre_iqc_snf_kzb" nd:nd-id="pre_iqc_snf_kzb" xml:space="preserve">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                        进入 <b class="+ topic/ph hi-d/b ">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b ">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b ">搜索</b>，搜索项目。
+                    <image class="- topic/image " dita-ot:image-width="2528" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="unique_1_Connect_42_zcyImg-24846" nd:nd-id="zcyImg-24846" placement="inline" scope="external"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 点击<b class="+ topic/ph hi-d/b "> 编制</b>。<image class="- topic/image " dita-ot:image-width="2522" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="unique_1_Connect_42_zcyImg-24847" nd:nd-id="zcyImg-24847" placement="inline" scope="external"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                
+                <cmd class="- topic/ph task/cmd ">
+                  在 <b class="+ topic/ph hi-d/b ">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " dita-ot:image-width="2523" dita-ot:image-height="1587" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="unique_1_Connect_42_zcyImg-24848" nd:nd-id="zcyImg-24848" placement="inline" scope="external"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result ">
+            <p audience="供应商" class="- topic/p " data-ditaval-action="flag"><ditaval-startprop class="+ topic/foreign ditaot-d/ditaval-startprop "><prop action="flag"><startflag action="flag"><alt-text>高亮处理</alt-text></startflag></prop></ditaval-startprop>Set the configuration options: <ul class="- topic/ul ">
+                    <li class="- topic/li " product="8003-000002-B-0001">Set foo to bar</li>
+                    <li class="- topic/li " product="8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000007-B-0001">Set your blink rate</li>
+                    <li class="- topic/li ">Do some other stuff</li>
+                    <li class="- topic/li ">Do a special thing for Linux</li>
+                </ul>
+            <ditaval-endprop class="+ topic/foreign ditaot-d/ditaval-endprop "><prop action="flag"/></ditaval-endprop></p>
+            
+        </result>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref bookmap/chapter " product="8003-000002-B-0001" otherprops="诸暨 浙江" nd:nd-id="task0" oid="task0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">选择标项-条件处理 </ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u ">投标文件</u></xref>。
+            <pre class="- topic/pre " id="unique_2_Connect_42_pre_iqc_snf_kzb" nd:nd-id="pre_iqc_snf_kzb" xml:space="preserve">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps ">
+            
+    
+                <step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Common step</cmd></step>
+                <step class="- topic/li task/step " product="8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000014-A-0001">
+                <cmd class="- topic/ph task/cmd ">Do something special for databases ABC or OtherName when installing on
+                    mySERVER</cmd>
+            </step>
+                
+       
+            
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                        进入 <b class="+ topic/ph hi-d/b ">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b ">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b ">搜索</b>，搜索项目。
+                    <image class="- topic/image " dita-ot:image-width="2528" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="unique_2_Connect_42_zcyImg-24846" nd:nd-id="zcyImg-24846" placement="inline" scope="external"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 点击<b class="+ topic/ph hi-d/b "> 编制</b>。<image class="- topic/image " dita-ot:image-width="2522" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="unique_2_Connect_42_zcyImg-24847" nd:nd-id="zcyImg-24847" placement="inline" scope="external"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                
+                <cmd class="- topic/ph task/cmd ">
+                  在 <b class="+ topic/ph hi-d/b ">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " dita-ot:image-width="2523" dita-ot:image-height="1587" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="unique_2_Connect_42_zcyImg-24848" nd:nd-id="zcyImg-24848" placement="inline" scope="external"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result ">
+            <p class="- topic/p ">进入 <b class="+ topic/ph hi-d/b ">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " dita-ot:image-width="2487" dita-ot:image-height="1313" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external"/>
+            </p>
+        </result>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref bookmap/chapter " audience="采购单 供应商" otherprops="浙江" nd:nd-id="task0" oid="task0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">完善基本信息</ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u ">投标文件</u></xref>。
+            <pre class="- topic/pre " id="unique_3_Connect_42_pre_iqc_snf_kzb" nd:nd-id="pre_iqc_snf_kzb" xml:space="preserve">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                        进入 <b class="+ topic/ph hi-d/b ">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b ">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b ">搜索</b>，搜索项目。
+                    <image class="- topic/image " dita-ot:image-width="2528" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="unique_3_Connect_42_zcyImg-24846" nd:nd-id="zcyImg-24846" placement="inline" scope="external"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 点击<b class="+ topic/ph hi-d/b "> 编制</b>。<image class="- topic/image " dita-ot:image-width="2522" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="unique_3_Connect_42_zcyImg-24847" nd:nd-id="zcyImg-24847" placement="inline" scope="external"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                
+                <cmd class="- topic/ph task/cmd ">
+                  在 <b class="+ topic/ph hi-d/b ">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " dita-ot:image-width="2523" dita-ot:image-height="1587" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="unique_3_Connect_42_zcyImg-24848" nd:nd-id="zcyImg-24848" placement="inline" scope="external"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result ">
+            <p class="- topic/p ">进入 <b class="+ topic/ph hi-d/b ">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " dita-ot:image-width="2487" dita-ot:image-height="1313" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external"/>
+            </p>
+        </result>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref bookmap/chapter " otherprops="浙江" nd:nd-id="task0" oid="task0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">制作和导入投标（响应）文件 </ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u ">投标文件</u></xref>。
+            <pre class="- topic/pre " id="unique_4_Connect_42_pre_iqc_snf_kzb" nd:nd-id="pre_iqc_snf_kzb" xml:space="preserve">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                        进入 <b class="+ topic/ph hi-d/b ">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b ">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b ">搜索</b>，搜索项目。
+                    <image class="- topic/image " dita-ot:image-width="2528" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="unique_4_Connect_42_zcyImg-24846" nd:nd-id="zcyImg-24846" placement="inline" scope="external"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 点击<b class="+ topic/ph hi-d/b "> 编制</b>。<image class="- topic/image " dita-ot:image-width="2522" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="unique_4_Connect_42_zcyImg-24847" nd:nd-id="zcyImg-24847" placement="inline" scope="external"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                
+                <cmd class="- topic/ph task/cmd ">
+                  在 <b class="+ topic/ph hi-d/b ">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " dita-ot:image-width="2523" dita-ot:image-height="1587" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="unique_4_Connect_42_zcyImg-24848" nd:nd-id="zcyImg-24848" placement="inline" scope="external"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result ">
+            <p class="- topic/p ">进入 <b class="+ topic/ph hi-d/b ">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " dita-ot:image-width="2487" dita-ot:image-height="1313" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external"/>
+            </p>
+        </result>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref bookmap/chapter " otherprops="杭州 浙江" nd:nd-id="task0" oid="task0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">关联标 </ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u ">投标文件</u></xref>。
+            <pre class="- topic/pre " id="unique_5_Connect_42_pre_iqc_snf_kzb" nd:nd-id="pre_iqc_snf_kzb" xml:space="preserve">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                        进入 <b class="+ topic/ph hi-d/b ">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b ">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b ">搜索</b>，搜索项目。
+                    <image class="- topic/image " dita-ot:image-width="2528" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="unique_5_Connect_42_zcyImg-24846" nd:nd-id="zcyImg-24846" placement="inline" scope="external"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 点击<b class="+ topic/ph hi-d/b "> 编制</b>。<image class="- topic/image " dita-ot:image-width="2522" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="unique_5_Connect_42_zcyImg-24847" nd:nd-id="zcyImg-24847" placement="inline" scope="external"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                
+                <cmd class="- topic/ph task/cmd ">
+                  在 <b class="+ topic/ph hi-d/b ">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " dita-ot:image-width="2523" dita-ot:image-height="1587" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="unique_5_Connect_42_zcyImg-24848" nd:nd-id="zcyImg-24848" placement="inline" scope="external"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result ">
+            <p class="- topic/p ">进入 <b class="+ topic/ph hi-d/b ">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " dita-ot:image-width="2487" dita-ot:image-height="1313" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external"/>
+            </p>
+        </result>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref bookmap/chapter " otherprops="浙江" nd:nd-id="task0" oid="task0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">检查标书 </ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u ">投标文件</u></xref>。
+            <pre class="- topic/pre " id="unique_6_Connect_42_pre_iqc_snf_kzb" nd:nd-id="pre_iqc_snf_kzb" xml:space="preserve">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                        进入 <b class="+ topic/ph hi-d/b ">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b ">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b ">搜索</b>，搜索项目。
+                    <image class="- topic/image " dita-ot:image-width="2528" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="unique_6_Connect_42_zcyImg-24846" nd:nd-id="zcyImg-24846" placement="inline" scope="external"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 点击<b class="+ topic/ph hi-d/b "> 编制</b>。<image class="- topic/image " dita-ot:image-width="2522" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="unique_6_Connect_42_zcyImg-24847" nd:nd-id="zcyImg-24847" placement="inline" scope="external"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                
+                <cmd class="- topic/ph task/cmd ">
+                  在 <b class="+ topic/ph hi-d/b ">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " dita-ot:image-width="2523" dita-ot:image-height="1587" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="unique_6_Connect_42_zcyImg-24848" nd:nd-id="zcyImg-24848" placement="inline" scope="external"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result ">
+            <p audience="" class="- topic/p ">Set the configuration options:
+                <ul class="- topic/ul ">
+                    <li class="- topic/li " product="">Set foo to bar</li>
+                    <li class="- topic/li " product=" ">Set your blink rate</li>
+                    <li class="- topic/li ">Do some other stuff</li>
+                    <li class="- topic/li ">Do a special thing for Linux</li>
+                </ul>
+            </p>
+        </result>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref bookmap/chapter " otherprops="浙江" nd:nd-id="task0" oid="task0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">电子签名 </ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u ">投标文件</u></xref>。
+            <pre class="- topic/pre " id="unique_7_Connect_42_pre_iqc_snf_kzb" nd:nd-id="pre_iqc_snf_kzb" xml:space="preserve">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                        进入 <b class="+ topic/ph hi-d/b ">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b ">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b ">搜索</b>，搜索项目。
+                    <image class="- topic/image " dita-ot:image-width="2528" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="unique_7_Connect_42_zcyImg-24846" nd:nd-id="zcyImg-24846" placement="inline" scope="external"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 点击<b class="+ topic/ph hi-d/b "> 编制</b>。<image class="- topic/image " dita-ot:image-width="2522" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="unique_7_Connect_42_zcyImg-24847" nd:nd-id="zcyImg-24847" placement="inline" scope="external"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                
+                <cmd class="- topic/ph task/cmd ">
+                  在 <b class="+ topic/ph hi-d/b ">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " dita-ot:image-width="2523" dita-ot:image-height="1587" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="unique_7_Connect_42_zcyImg-24848" nd:nd-id="zcyImg-24848" placement="inline" scope="external"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result ">
+            <p class="- topic/p ">进入 <b class="+ topic/ph hi-d/b ">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " dita-ot:image-width="2487" dita-ot:image-height="1313" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external"/>
+            </p>
+        </result>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref bookmap/chapter " otherprops="浙江" nd:nd-id="task0" oid="task0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">生成电子标书</ph></title>
+    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation ">
+            <published class="- topic/data bookmap/published ">
+                <completed class="- topic/ph bookmap/completed ">
+                    <day class="- topic/ph bookmap/day ">28</day>
+                    <month class="- topic/ph bookmap/month ">3</month>
+                    <year class="- topic/ph bookmap/year ">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u ">投标文件</u></xref>。
+            <pre class="- topic/pre " id="unique_8_Connect_42_pre_iqc_snf_kzb" nd:nd-id="pre_iqc_snf_kzb" xml:space="preserve">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                        进入 <b class="+ topic/ph hi-d/b ">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b ">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b ">搜索</b>，搜索项目。
+                    <image class="- topic/image " dita-ot:image-width="2528" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="unique_8_Connect_42_zcyImg-24846" nd:nd-id="zcyImg-24846" placement="inline" scope="external"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> 点击<b class="+ topic/ph hi-d/b "> 编制</b>。<image class="- topic/image " dita-ot:image-width="2522" dita-ot:image-height="1576" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="unique_8_Connect_42_zcyImg-24847" nd:nd-id="zcyImg-24847" placement="inline" scope="external"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                
+                <cmd class="- topic/ph task/cmd ">
+                  在 <b class="+ topic/ph hi-d/b ">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " dita-ot:image-width="2523" dita-ot:image-height="1587" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="unique_8_Connect_42_zcyImg-24848" nd:nd-id="zcyImg-24848" placement="inline" scope="external"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result ">
+            <p class="- topic/p ">进入 <b class="+ topic/ph hi-d/b ">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " dita-ot:image-width="2487" dita-ot:image-height="1313" href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external"/>
+            </p>
+        </result>
+    </taskbody>
+</task></bookmap>

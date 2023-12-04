@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\commonFilesDir\RepforCommonModules\Reuseables?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/commonFilesDir/RepforCommonModules/Reuseables/?><?path2project ..\..\..\docx\?><?path2project-uri ../../../docx/?><?path2rootmap-uri ../../../zcygov/?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;2:6" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/commonFilesDir/RepforCommonModules/Reuseables/reusableCommonTopics.ditamap">
+  <title class="- topic/title " xtrc="title:1;3:10" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/commonFilesDir/RepforCommonModules/Reuseables/reusableCommonTopics.ditamap">跨手册类型和产品类型的公共 TOPIC 内容模块</title>
+  <topicmeta class="- map/topicmeta " xtrc="topicmeta:1;4:14" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/commonFilesDir/RepforCommonModules/Reuseables/reusableCommonTopics.ditamap">
+    <author class="- topic/author " type="contributor" xtrc="author:1;5:32" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/commonFilesDir/RepforCommonModules/Reuseables/reusableCommonTopics.ditamap">RAYFAN</author>
+  </topicmeta>
+  
+  <keydef class="+ map/topicref mapgroup-d/keydef " format="dita" href="../../../zcygov/index.dita#topic_oz5_kzq_qwb" keys="glossary" processing-role="resource-only" xtrc="keydef:1;12:69" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/commonFilesDir/RepforCommonModules/Reuseables/reusableCommonTopics.ditamap">
+      <topicmeta class="- map/topicmeta " xtrc="topicmeta:2;13:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/commonFilesDir/RepforCommonModules/Reuseables/reusableCommonTopics.ditamap">
+        <navtitle class="- topic/navtitle " xtrc="navtitle:1;14:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/commonFilesDir/RepforCommonModules/Reuseables/reusableCommonTopics.ditamap">术语及缩略语</navtitle>
+      </topicmeta>
+  </keydef>
+  
+  
+  
+  
+</map>

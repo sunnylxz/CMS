@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>PDF 首页变量定义集</title>
+  <topicmeta>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2022-05-30"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="Everest "/>
+      <data name="产品版本" value="2"/>
+      <data name="手册类型" value="规格书"/>
+      <data name="手册秘级" value="秘密"/>
+      <data name="元数据自定义“name”属性值-5" value="元数据自定义“data”属性值-5"/>
+      <data name="元数据自定义“name”属性值-6" value="元数据自定义“data”属性值-6"/>
+      <data name="元数据自定义“name”属性值-7" value="元数据自定义“data”属性值-7"/>
+    </metadata>
+  </topicmeta>
+  
+  <keydef keys="PRODUCTNAME" navtitle="产品名称" product="XREUG XREINSTALL RFP">
+    <topicmeta>
+      <keywords>
+        <keyword>AutoCore</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="BOOKTITLE" navtitle="手册名称" product="RFP">
+    <topicmeta>
+      <keywords>
+        <keyword>操作和维护手册</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>  
+  <keydef keys="release" navtitle="发行版本" product="XREINSTALL RFP">
+    <topicmeta>
+      <keywords>
+        <keyword>IM22U09-C</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="BOOKNUMBER" navtitle="文档编号" product="XREUG XREINSTALL">
+    <topicmeta>
+      <keywords>
+        <keyword>1.120</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="VERSION" navtitle="产品版本" product="XREINSTALL RFP">
+    <topicmeta>
+      <keywords>
+        <keyword>1.0020</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="releasedate" navtitle="发布时间" product="XREINSTALL RFP">
+    <topicmeta>
+      <keywords>
+        <keyword>20220823</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
+  <keydef keys="issue" navtitle="手册版本" product="XREINSTALL RFP">
+    <topicmeta>
+      <keywords>
+        <keyword>V1.0.2</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
+  <keydef keys="updatesdate" navtitle="更新日期" product="PaddleModeling XREUG XREINSTALL RFP">
+    <topicmeta>
+      <keywords>
+        <keyword>20221103</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
+  
+  
+  
+  <keydef keys="PRODUCTNAME" navtitle="产品名称" product="PaddlePredict PaddleModeling RFP">
+    <topicmeta>
+      <keywords>
+        <keyword>百度飞浆昆仑芯</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="BOOKTITLE" navtitle="手册名称" product="XREUG XREINSTALL">
+    <topicmeta>
+      <keywords>
+        <keyword>安装手册</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>  
+  <keydef keys="release" navtitle="发行版本" product="PaddlePredict">
+    <topicmeta>
+      <keywords>
+        <keyword>IM1119-C</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="BOOKNUMBER" navtitle="文档编号" product="RFP">
+    <topicmeta>
+      <keywords product="RFP">
+        <keyword>120</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="VERSION" navtitle="产品版本" product="">
+    <topicmeta>
+      <keywords product="PaddlePredict">
+        <keyword>10</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="releasedate" navtitle="发布时间" product="PaddlePredict">
+    <topicmeta>
+      <keywords>
+        <keyword>20221101</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
+  <keydef keys="issue" navtitle="手册版本" product="PaddlePredict">
+    <topicmeta>
+      <keywords>
+        <keyword>V1.0.2</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
+  
+  
+  <keydef keys="updatesdate" navtitle="更新日期" product="PaddlePredict">
+    <topicmeta>
+      <keywords>
+        <keyword>20221103</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
+  
+  
+  <keydef keys="BUSINESS" navtitle="BUSINESS" product="PaddlePredict PaddleModeling XREUG XREINSTALL RFP">
+    <topicmeta>
+      <keywords>
+        <keyword>KUNLUN</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
+  
+</map>

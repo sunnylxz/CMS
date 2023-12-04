@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap
+  PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="zh-CN">
+  <title> 制作标书<?oxy_delete author="admin" timestamp="20231111T192006+0800" content=" "?></title>
+  <bookmeta>
+    <author>AAA</author>
+    <critdates>
+      <created date="2023-11-10"/>
+      <revised modified="2023-11-10"/>
+    </critdates>
+  </bookmeta>
+  <chapter href="topics/%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita"/>
+  <?oxy_attributes audience="&lt;change type=&quot;removed&quot; oldValue=&quot;供应商&quot; author=&quot;admin&quot; timestamp=&quot;20231111T202656+0800&quot; /&gt;"?>
+  <chapter href="topics/%E5%88%B6%E4%BD%9C%E6%8A%95%E6%A0%87%E6%96%87%E4%BB%B6.dita"/>
+  <?oxy_attributes product="&lt;change type=&quot;removed&quot; oldValue=&quot;8003-000002-B-0001&quot; author=&quot;admin&quot; timestamp=&quot;20231111T202659+0800&quot; /&gt;"?>
+  <chapter href="topics/%E9%80%89%E6%8B%A9%E6%A0%87%E9%A1%B9.dita"/>
+  <?oxy_attributes audience="&lt;change type=&quot;removed&quot; oldValue=&quot;采购单 供应商&quot; author=&quot;admin&quot; timestamp=&quot;20231111T202702+0800&quot; /&gt;"?>
+  <chapter href="topics/%E5%AE%8C%E5%96%84%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF.dita"/>
+  <chapter href="topics/%E5%88%B6%E4%BD%9C%E5%92%8C%E5%AF%BC%E5%85%A5%E6%8A%95%E6%A0%87.dita"/>
+  <chapter href="topics/%E5%85%B3%E8%81%94%E6%A0%87%E4%B9%A6.dita"/>
+  <chapter href="topics/%E6%A3%80%E6%9F%A5%E6%A0%87%E4%B9%A6.dita"/>
+  <chapter href="topics/%E7%94%B5%E5%AD%90%E7%AD%BE%E5%90%8D.dita"/>
+  <chapter href="topics/%E7%94%9F%E6%88%90%E7%94%B5%E5%AD%90%E6%A0%87%E4%B9%A6.dita"/>
+</bookmap>
+<?oxy_options track_changes="on"?>

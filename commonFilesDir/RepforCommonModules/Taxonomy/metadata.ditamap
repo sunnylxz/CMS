@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+    <subjectHead>
+        <subjectHeadMeta>
+            <navtitle> KUNLUNXIN</navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    
+    
+    <subjectdef keys="audienceKey">
+        <subjectdef keys="OEM"/>
+        <subjectdef keys="百度智能云"/>
+        <subjectdef keys="百度汽车"/>
+        <subjectdef keys="radiologist"/>
+        <subjectdef keys="surgeon">
+            <subjectdef keys="neuro-surgeon"/>
+            <subjectdef keys="plastic-surgeon"/>
+        </subjectdef>
+    </subjectdef>
+    <hasInstance>
+        
+        <subjectdef keys="硬件" navtitle="硬件">
+            <subjectdef keys="AI加速芯片" navtitle="加速芯片">
+                <subjectdef keys="CR10" navtitle="CR10"/>
+                <subjectdef keys="CR20" navtitle="CR20"/>
+            </subjectdef>
+            <subjectdef keys="R200" navtitle="R200硬件手册"/>
+            <subjectdef keys="R300" navtitle="R300硬件手册"/>
+            <subjectdef keys="R200-8F" navtitle="R200-8F硬件手册"/>
+            <subjectdef keys="R480-X8" navtitle="R480-X8硬件手册"/>
+            <subjectdef keys="R800" navtitle="R800硬件手册"/>
+        </subjectdef>
+        <subjectdef keys="软件" navtitle="软件">
+            <subjectdef keys="XRE" navtitle="XRE">
+                <subjectdef keys="XRE安装" navtitle="XRE安装"/>
+                <subjectdef keys="XREAPI" navtitle="XREAPI"/>
+            </subjectdef>
+            
+        </subjectdef>
+        
+        
+        
+        
+        
+        
+    </hasInstance>
+    
+    
+    
+    
+    
+    
+    
+    <enumerationdef>
+        <attributedef name="product"/>
+        <subjectdef keyref="硬件"/>
+        <subjectdef keyref="软件"/>
+    </enumerationdef>
+    
+    <enumerationdef>
+        <attributedef name="audience"/>
+        <subjectdef keyref="audienceKey"/>
+    </enumerationdef>
+    
+    
+</subjectScheme>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"[]>
+<map product="" processing-role="resource-only">
+  <title>可复用的图形引用</title>
+  <topicmeta>
+    <author type="contributor">RAYFAN</author>
+    <author type="contributor">Ray</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2021-06-28"/>
+      <!--Ray-->
+      <revised modified="2021/10/06"/>
+    </critdates>
+  </topicmeta>
+  <keydef keys="talk_selection_screen" href="../Media/talk_selection_screen.pdf" format="pdf" />
+  <keydef keys="talk_screen" href="../Media/talk_screen.pdf" format="pdf" />
+  <keydef keys="talk_callout" href="../Media/talk_callout.pdf" format="pdf" />
+</map>

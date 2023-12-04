@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/?><?path2rootmap-uri zcygov?><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/?><dita><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov\topics?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="task0" specializations="@props/deliveryTarget" xtrc="task:1;3:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">登录客户端 -条件处理</title><titlealts class="- topic/titlealts "/>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita"/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation " xtrc="publisherinformation:1;22:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+            <published class="- topic/data bookmap/published " xtrc="published:1;23:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                <completed class="- topic/ph bookmap/completed " xtrc="completed:1;24:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                    <day class="- topic/ph bookmap/day " xtrc="day:1;25:26" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">28</day>
+                    <month class="- topic/ph bookmap/month " xtrc="month:1;26:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">3</month>
+                    <year class="- topic/ph bookmap/year " xtrc="year:1;27:27" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external" xtrc="xref:1;9:52" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u " xtrc="u:1;10:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">投标文件</u></xref>。
+            <pre class="- topic/pre " id="pre_iqc_snf_kzb" xml:space="preserve" xtrc="pre:1;11:39" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;15:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+            <step class="- topic/li task/step " xtrc="step:1;16:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;17:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+                        进入 <b class="+ topic/ph hi-d/b " xtrc="b:1;18:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b " xtrc="b:2;18:55" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b " xtrc="b:3;19:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">搜索</b>，搜索项目。
+                    <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="zcyImg-24846" placement="inline" scope="external" xtrc="image:1;22:69" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita" dita-ot:image-width="2528" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;26:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;27:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita"> 点击<b class="+ topic/ph hi-d/b " xtrc="b:4;27:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita"> 编制</b>。<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="zcyImg-24847" placement="inline" scope="external" xtrc="image:2;29:57" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita" dita-ot:image-width="2522" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;31:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;32:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;36:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+                
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+                  在 <b class="+ topic/ph hi-d/b " xtrc="b:5;39:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="zcyImg-24848" placement="inline" scope="external" xtrc="image:3;41:61" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita" dita-ot:image-width="2523" dita-ot:image-height="1587" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrc="result:1;46:17" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+            <p audience="供应商" class="- topic/p " xtrc="p:1;47:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">Set the configuration options: <ul class="- topic/ul " xtrc="ul:1;47:66" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">
+                    <li class="- topic/li " product="8003-000002-B-0001" xtrc="li:1;48:54" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">Set foo to bar</li>
+                    <li class="- topic/li " product="8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000007-B-0001" xtrc="li:2;51:26" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">Set your blink rate</li>
+                    <li class="- topic/li " xtrc="li:3;52:25" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">Do some other stuff</li>
+                    <li class="- topic/li " xtrc="li:4;53:25" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/登录客户端.dita">Do a special thing for Linux</li>
+                </ul>
+            </p>
+            
+        </result>
+    </taskbody>
+</task><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov\topics?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_138464202" specializations="@props/deliveryTarget" xtrc="task:1;3:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">制作投标文件 </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita"/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation " xtrc="publisherinformation:1;22:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+            <published class="- topic/data bookmap/published " xtrc="published:1;23:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                <completed class="- topic/ph bookmap/completed " xtrc="completed:1;24:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                    <day class="- topic/ph bookmap/day " xtrc="day:1;25:26" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">28</day>
+                    <month class="- topic/ph bookmap/month " xtrc="month:1;26:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">3</month>
+                    <year class="- topic/ph bookmap/year " xtrc="year:1;27:27" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external" xtrc="xref:1;9:52" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u " xtrc="u:1;10:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">投标文件</u></xref>。
+            <pre class="- topic/pre " id="pre_iqc_snf_kzb" xml:space="preserve" xtrc="pre:1;11:39" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;15:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+            <step class="- topic/li task/step " xtrc="step:1;16:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;17:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+                        进入 <b class="+ topic/ph hi-d/b " xtrc="b:1;18:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b " xtrc="b:2;18:55" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b " xtrc="b:3;19:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">搜索</b>，搜索项目。
+                    <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="zcyImg-24846" placement="inline" scope="external" xtrc="image:1;22:69" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita" dita-ot:image-width="2528" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;26:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;27:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita"> 点击<b class="+ topic/ph hi-d/b " xtrc="b:4;27:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita"> 编制</b>。<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="zcyImg-24847" placement="inline" scope="external" xtrc="image:2;29:57" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita" dita-ot:image-width="2522" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;31:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;32:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;36:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+                
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+                  在 <b class="+ topic/ph hi-d/b " xtrc="b:5;39:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="zcyImg-24848" placement="inline" scope="external" xtrc="image:3;41:61" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita" dita-ot:image-width="2523" dita-ot:image-height="1587" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrc="result:1;46:17" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">
+            <p class="- topic/p " xtrc="p:1;47:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">进入 <b class="+ topic/ph hi-d/b " xtrc="b:6;47:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external" xtrc="image:4;50:158" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作投标文件.dita" dita-ot:image-width="2487" dita-ot:image-height="1313" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+            </p>
+        </result>
+    </taskbody>
+</task><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov\topics?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_653982035" specializations="@props/deliveryTarget" xtrc="task:1;3:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">选择标项-条件处理 </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita"/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation " xtrc="publisherinformation:1;22:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+            <published class="- topic/data bookmap/published " xtrc="published:1;23:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                <completed class="- topic/ph bookmap/completed " xtrc="completed:1;24:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                    <day class="- topic/ph bookmap/day " xtrc="day:1;25:26" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">28</day>
+                    <month class="- topic/ph bookmap/month " xtrc="month:1;26:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">3</month>
+                    <year class="- topic/ph bookmap/year " xtrc="year:1;27:27" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external" xtrc="xref:1;9:52" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u " xtrc="u:1;10:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">投标文件</u></xref>。
+            <pre class="- topic/pre " id="pre_iqc_snf_kzb" xml:space="preserve" xtrc="pre:1;11:39" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;15:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+            
+    
+                <step class="- topic/li task/step " xtrc="step:1;18:23" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita"><cmd class="- topic/ph task/cmd " xtrc="cmd:1;18:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">Common step</cmd></step>
+                <step class="- topic/li task/step " product="8003-000002-B-0001 8003-000004-B-0001 8003-000006-B-0001 8003-000014-A-0001" xtrc="step:2;20:103" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;21:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">Do something special for databases ABC or OtherName when installing on
+                    mySERVER</cmd>
+            </step>
+                
+       
+            
+            <step class="- topic/li task/step " xtrc="step:3;27:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;28:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+                        进入 <b class="+ topic/ph hi-d/b " xtrc="b:1;29:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b " xtrc="b:2;29:55" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b " xtrc="b:3;30:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">搜索</b>，搜索项目。
+                    <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="zcyImg-24846" placement="inline" scope="external" xtrc="image:1;33:69" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita" dita-ot:image-width="2528" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;37:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita"> 点击<b class="+ topic/ph hi-d/b " xtrc="b:4;38:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita"> 编制</b>。<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="zcyImg-24847" placement="inline" scope="external" xtrc="image:2;40:57" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita" dita-ot:image-width="2522" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;42:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;43:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;47:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+                
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;49:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+                  在 <b class="+ topic/ph hi-d/b " xtrc="b:5;50:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="zcyImg-24848" placement="inline" scope="external" xtrc="image:3;52:61" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita" dita-ot:image-width="2523" dita-ot:image-height="1587" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrc="result:1;57:17" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">
+            <p class="- topic/p " xtrc="p:1;58:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">进入 <b class="+ topic/ph hi-d/b " xtrc="b:6;58:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external" xtrc="image:4;61:158" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/选择标项.dita" dita-ot:image-width="2487" dita-ot:image-height="1313" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+            </p>
+        </result>
+    </taskbody>
+</task><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov\topics?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_421221424" specializations="@props/deliveryTarget" xtrc="task:1;3:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">完善基本信息</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita"/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation " xtrc="publisherinformation:1;22:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+            <published class="- topic/data bookmap/published " xtrc="published:1;23:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                <completed class="- topic/ph bookmap/completed " xtrc="completed:1;24:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                    <day class="- topic/ph bookmap/day " xtrc="day:1;25:26" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">28</day>
+                    <month class="- topic/ph bookmap/month " xtrc="month:1;26:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">3</month>
+                    <year class="- topic/ph bookmap/year " xtrc="year:1;27:27" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external" xtrc="xref:1;9:52" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u " xtrc="u:1;10:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">投标文件</u></xref>。
+            <pre class="- topic/pre " id="pre_iqc_snf_kzb" xml:space="preserve" xtrc="pre:1;11:39" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;15:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+            <step class="- topic/li task/step " xtrc="step:1;16:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;17:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+                        进入 <b class="+ topic/ph hi-d/b " xtrc="b:1;18:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b " xtrc="b:2;18:55" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b " xtrc="b:3;19:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">搜索</b>，搜索项目。
+                    <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="zcyImg-24846" placement="inline" scope="external" xtrc="image:1;22:69" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita" dita-ot:image-width="2528" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;26:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;27:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita"> 点击<b class="+ topic/ph hi-d/b " xtrc="b:4;27:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita"> 编制</b>。<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="zcyImg-24847" placement="inline" scope="external" xtrc="image:2;29:57" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita" dita-ot:image-width="2522" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;31:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;32:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;36:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+                
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+                  在 <b class="+ topic/ph hi-d/b " xtrc="b:5;39:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="zcyImg-24848" placement="inline" scope="external" xtrc="image:3;41:61" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita" dita-ot:image-width="2523" dita-ot:image-height="1587" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrc="result:1;46:17" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">
+            <p class="- topic/p " xtrc="p:1;47:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">进入 <b class="+ topic/ph hi-d/b " xtrc="b:6;47:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external" xtrc="image:4;50:158" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/完善基本信息.dita" dita-ot:image-width="2487" dita-ot:image-height="1313" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+            </p>
+        </result>
+    </taskbody>
+</task><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov\topics?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_193923728" specializations="@props/deliveryTarget" xtrc="task:1;3:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">制作和导入投标（响应）文件 </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita"/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation " xtrc="publisherinformation:1;22:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+            <published class="- topic/data bookmap/published " xtrc="published:1;23:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                <completed class="- topic/ph bookmap/completed " xtrc="completed:1;24:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                    <day class="- topic/ph bookmap/day " xtrc="day:1;25:26" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">28</day>
+                    <month class="- topic/ph bookmap/month " xtrc="month:1;26:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">3</month>
+                    <year class="- topic/ph bookmap/year " xtrc="year:1;27:27" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external" xtrc="xref:1;9:52" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u " xtrc="u:1;10:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">投标文件</u></xref>。
+            <pre class="- topic/pre " id="pre_iqc_snf_kzb" xml:space="preserve" xtrc="pre:1;11:39" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;15:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+            <step class="- topic/li task/step " xtrc="step:1;16:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;17:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+                        进入 <b class="+ topic/ph hi-d/b " xtrc="b:1;18:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b " xtrc="b:2;18:55" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b " xtrc="b:3;19:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">搜索</b>，搜索项目。
+                    <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="zcyImg-24846" placement="inline" scope="external" xtrc="image:1;22:69" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita" dita-ot:image-width="2528" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;26:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;27:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita"> 点击<b class="+ topic/ph hi-d/b " xtrc="b:4;27:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita"> 编制</b>。<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="zcyImg-24847" placement="inline" scope="external" xtrc="image:2;29:57" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita" dita-ot:image-width="2522" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;31:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;32:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;36:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+                
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+                  在 <b class="+ topic/ph hi-d/b " xtrc="b:5;39:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="zcyImg-24848" placement="inline" scope="external" xtrc="image:3;41:61" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita" dita-ot:image-width="2523" dita-ot:image-height="1587" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrc="result:1;46:17" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">
+            <p class="- topic/p " xtrc="p:1;47:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">进入 <b class="+ topic/ph hi-d/b " xtrc="b:6;47:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external" xtrc="image:4;50:158" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/制作和导入投标.dita" dita-ot:image-width="2487" dita-ot:image-height="1313" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+            </p>
+        </result>
+    </taskbody>
+</task><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov\topics?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_2012255260" specializations="@props/deliveryTarget" xtrc="task:1;3:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">关联标 </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita"/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation " xtrc="publisherinformation:1;22:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+            <published class="- topic/data bookmap/published " xtrc="published:1;23:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                <completed class="- topic/ph bookmap/completed " xtrc="completed:1;24:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                    <day class="- topic/ph bookmap/day " xtrc="day:1;25:26" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">28</day>
+                    <month class="- topic/ph bookmap/month " xtrc="month:1;26:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">3</month>
+                    <year class="- topic/ph bookmap/year " xtrc="year:1;27:27" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external" xtrc="xref:1;9:52" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u " xtrc="u:1;10:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">投标文件</u></xref>。
+            <pre class="- topic/pre " id="pre_iqc_snf_kzb" xml:space="preserve" xtrc="pre:1;11:39" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;15:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+            <step class="- topic/li task/step " xtrc="step:1;16:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;17:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+                        进入 <b class="+ topic/ph hi-d/b " xtrc="b:1;18:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b " xtrc="b:2;18:55" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b " xtrc="b:3;19:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">搜索</b>，搜索项目。
+                    <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="zcyImg-24846" placement="inline" scope="external" xtrc="image:1;22:69" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita" dita-ot:image-width="2528" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;26:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;27:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita"> 点击<b class="+ topic/ph hi-d/b " xtrc="b:4;27:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita"> 编制</b>。<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="zcyImg-24847" placement="inline" scope="external" xtrc="image:2;29:57" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita" dita-ot:image-width="2522" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;31:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;32:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;36:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+                
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+                  在 <b class="+ topic/ph hi-d/b " xtrc="b:5;39:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="zcyImg-24848" placement="inline" scope="external" xtrc="image:3;41:61" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita" dita-ot:image-width="2523" dita-ot:image-height="1587" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrc="result:1;46:17" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">
+            <p class="- topic/p " xtrc="p:1;47:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">进入 <b class="+ topic/ph hi-d/b " xtrc="b:6;47:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external" xtrc="image:4;50:158" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/关联标书.dita" dita-ot:image-width="2487" dita-ot:image-height="1313" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+            </p>
+        </result>
+    </taskbody>
+</task><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov\topics?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_1949641878" specializations="@props/deliveryTarget" xtrc="task:1;3:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">检查标书 </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita"/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation " xtrc="publisherinformation:1;22:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+            <published class="- topic/data bookmap/published " xtrc="published:1;23:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                <completed class="- topic/ph bookmap/completed " xtrc="completed:1;24:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                    <day class="- topic/ph bookmap/day " xtrc="day:1;25:26" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">28</day>
+                    <month class="- topic/ph bookmap/month " xtrc="month:1;26:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">3</month>
+                    <year class="- topic/ph bookmap/year " xtrc="year:1;27:27" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external" xtrc="xref:1;9:52" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u " xtrc="u:1;10:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">投标文件</u></xref>。
+            <pre class="- topic/pre " id="pre_iqc_snf_kzb" xml:space="preserve" xtrc="pre:1;11:39" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;15:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+            <step class="- topic/li task/step " xtrc="step:1;16:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;17:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+                        进入 <b class="+ topic/ph hi-d/b " xtrc="b:1;18:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b " xtrc="b:2;18:55" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b " xtrc="b:3;19:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">搜索</b>，搜索项目。
+                    <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="zcyImg-24846" placement="inline" scope="external" xtrc="image:1;22:69" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita" dita-ot:image-width="2528" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;26:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;27:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita"> 点击<b class="+ topic/ph hi-d/b " xtrc="b:4;27:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita"> 编制</b>。<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="zcyImg-24847" placement="inline" scope="external" xtrc="image:2;29:57" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita" dita-ot:image-width="2522" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;31:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;32:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;36:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+                
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+                  在 <b class="+ topic/ph hi-d/b " xtrc="b:5;39:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="zcyImg-24848" placement="inline" scope="external" xtrc="image:3;41:61" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita" dita-ot:image-width="2523" dita-ot:image-height="1587" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrc="result:1;46:17" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+            <p audience="" class="- topic/p " xtrc="p:1;47:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">Set the configuration options:
+                <ul class="- topic/ul " xtrc="ul:1;48:21" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">
+                    <li class="- topic/li " product="" xtrc="li:1;49:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">Set foo to bar</li>
+                    <li class="- topic/li " product=" " xtrc="li:2;50:37" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">Set your blink rate</li>
+                    <li class="- topic/li " xtrc="li:3;51:25" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">Do some other stuff</li>
+                    <li class="- topic/li " xtrc="li:4;52:25" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/检查标书.dita">Do a special thing for Linux</li>
+                </ul>
+            </p>
+        </result>
+    </taskbody>
+</task><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov\topics?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_2108158511" specializations="@props/deliveryTarget" xtrc="task:1;3:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">电子签名 </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita"/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation " xtrc="publisherinformation:1;22:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+            <published class="- topic/data bookmap/published " xtrc="published:1;23:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                <completed class="- topic/ph bookmap/completed " xtrc="completed:1;24:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                    <day class="- topic/ph bookmap/day " xtrc="day:1;25:26" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">28</day>
+                    <month class="- topic/ph bookmap/month " xtrc="month:1;26:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">3</month>
+                    <year class="- topic/ph bookmap/year " xtrc="year:1;27:27" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external" xtrc="xref:1;9:52" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u " xtrc="u:1;10:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">投标文件</u></xref>。
+            <pre class="- topic/pre " id="pre_iqc_snf_kzb" xml:space="preserve" xtrc="pre:1;11:39" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;15:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+            <step class="- topic/li task/step " xtrc="step:1;16:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;17:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+                        进入 <b class="+ topic/ph hi-d/b " xtrc="b:1;18:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b " xtrc="b:2;18:55" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b " xtrc="b:3;19:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">搜索</b>，搜索项目。
+                    <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="zcyImg-24846" placement="inline" scope="external" xtrc="image:1;22:69" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita" dita-ot:image-width="2528" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;26:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;27:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita"> 点击<b class="+ topic/ph hi-d/b " xtrc="b:4;27:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita"> 编制</b>。<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="zcyImg-24847" placement="inline" scope="external" xtrc="image:2;29:57" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita" dita-ot:image-width="2522" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;31:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;32:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;36:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+                
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+                  在 <b class="+ topic/ph hi-d/b " xtrc="b:5;39:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="zcyImg-24848" placement="inline" scope="external" xtrc="image:3;41:61" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita" dita-ot:image-width="2523" dita-ot:image-height="1587" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrc="result:1;46:17" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">
+            <p class="- topic/p " xtrc="p:1;47:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">进入 <b class="+ topic/ph hi-d/b " xtrc="b:6;47:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external" xtrc="image:4;50:158" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/电子签名.dita" dita-ot:image-width="2487" dita-ot:image-height="1313" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+            </p>
+        </result>
+    </taskbody>
+</task><?workdir /C:\Users\admin\Desktop\文档编辑器调研\调研\Oxygen经销商调研\202311试用\ZCYTrial\zcygov\temp\docx\zcygov\topics?><?workdir-uri file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/temp/docx/zcygov/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_624757673" specializations="@props/deliveryTarget" xtrc="task:1;3:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">生成电子标书</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita"/><prolog class="- topic/prolog "><author class="- topic/author " type="contributor" xtrc="author:1;21:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">RAYFAN</author><publisherinformation class="- topic/publisher bookmap/publisherinformation " xtrc="publisherinformation:1;22:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+            <published class="- topic/data bookmap/published " xtrc="published:1;23:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                <completed class="- topic/ph bookmap/completed " xtrc="completed:1;24:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">
+                    <day class="- topic/ph bookmap/day " xtrc="day:1;25:26" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">28</day>
+                    <month class="- topic/ph bookmap/month " xtrc="month:1;26:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">3</month>
+                    <year class="- topic/ph bookmap/year " xtrc="year:1;27:27" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/index.ditamap">2022</year>
+                </completed>
+            </published>
+        </publisherinformation></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">供应商获取采购文件之后，在政采云投标客户端编制<xref class="- topic/xref " format="html" href="https://helpcenter.zcygov.cn/document/#/document/detail?siteCode=beijing&amp;manualId=3521&amp;topicId=26072&amp;isPopup=1" scope="external" xtrc="xref:1;9:52" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita"><?ditaot usertext?>
+                    <u class="+ topic/ph hi-d/u " xtrc="u:1;10:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">投标文件</u></xref>。
+            <pre class="- topic/pre " id="pre_iqc_snf_kzb" xml:space="preserve" xtrc="pre:1;11:39" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">已获取采购文件。只有已获取采购文件的项目才会出现在项目列表。</pre>
+          
+  
+   </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;15:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+            <step class="- topic/li task/step " xtrc="step:1;16:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;17:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+                        进入 <b class="+ topic/ph hi-d/b " xtrc="b:1;18:31" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">政采云电子投标客户端 </b>页面，点击 <b class="+ topic/ph hi-d/b " xtrc="b:2;18:55" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">进行中项目</b> 标签页，选择需要制作标书的项目；或者通过
+                                <b class="+ topic/ph hi-d/b " xtrc="b:3;19:36" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">搜索</b>，搜索项目。
+                    <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/a2210073-9ade-405e-a4c3-e59038fb4df3.png" id="zcyImg-24846" placement="inline" scope="external" xtrc="image:1;22:69" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita" dita-ot:image-width="2528" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                    </cmd>
+                
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;26:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;27:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita"> 点击<b class="+ topic/ph hi-d/b " xtrc="b:4;27:28" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita"> 编制</b>。<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/1795d2a1-5c3c-4e72-919c-0dfbdbf8da61.png" id="zcyImg-24847" placement="inline" scope="external" xtrc="image:2;29:57" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita" dita-ot:image-width="2522" dita-ot:image-height="1576" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;31:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;32:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+                    将CA锁插入电脑。
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;36:19" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+                
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+                  在 <b class="+ topic/ph hi-d/b " xtrc="b:5;39:24" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例）<image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/97db2785-58df-4580-a32c-0f6441344caa.png" id="zcyImg-24848" placement="inline" scope="external" xtrc="image:3;41:61" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita" dita-ot:image-width="2523" dita-ot:image-height="1587" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+                </cmd>
+          
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrc="result:1;46:17" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">
+            <p class="- topic/p " xtrc="p:1;47:16" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">进入 <b class="+ topic/ph hi-d/b " xtrc="b:6;47:22" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita">编制模式</b> 页面，左侧可查看整个制作流程以及当前环节。
+   
+            
+                <image class="- topic/image " href="https://zcy-gov-open-doc.oss-cn-north-2-gov-1.aliyuncs.com/1124KBS/d4fbc378-e5a8-44be-a40a-f783624b6137.png" placement="break" scope="external" xtrc="image:4;50:158" xtrf="file:/C:/Users/admin/Desktop/文档编辑器调研/调研/Oxygen经销商调研/202311试用/ZCYTrial/zcygov/topics/生成电子标书.dita" dita-ot:image-width="2487" dita-ot:image-height="1313" dita-ot:horizontal-dpi="192" dita-ot:vertical-dpi="192"/>
+            </p>
+        </result>
+    </taskbody>
+</task></dita>

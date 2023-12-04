@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task0">
+    <title>完善基本信息</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>供应商确认项目的标项信息和投标信息。  </context>
+        <steps>
+            <step>
+                <cmd
+                    conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/cmd_bbr_w15_mzb"
+                />
+            </step>
+            <step>
+                <cmd>进入 <b>完善基本信息</b> 页面。  </cmd>
+                <info>
+                    <p><image href="../images/image10.png" id="zcyImg-24846" scope="external"/></p>
+                </info>
+                <info>
+                    <p>
+                        <note id="note_sw1_xjh_kzb">页面上方展示
+                            <b>距离投标截止时间还剩xx天</b>，需在投标截止时间之前制作并上传完成标书。</note>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>供应商根据本次参与项目的实际情况，选择是否联合体投标。</cmd>
+                <info>
+                    <p><image href="../images/image11.png" scope="external" id="image_stn_zjh_kzb"
+                        /></p>
+                    <p>
+                        <note id="note_c5l_bkh_kzb">
+                            <ul id="ul_usr_1kh_kzb">
+                                <li>
+                                    <p>采购文件会控制相关项目是否允许以联合体的方式投标。</p>
+                                </li>
+                                <li>
+                                    <p>供应商可以自主选择是否以联合体方式投标。</p>
+                                </li>
+                            </ul>
+                        </note>
+                    </p>
+                    <ul id="ul_rsp_ckh_kzb">
+                        <li>如供应商不以联合体形式参与投标，选择 <b>否</b>。<p><image href="../images/image12.png"
+                                    scope="external" id="image_dzx_fkh_kzb"/></p></li>
+                        <li>如供应商以联合体形式参与投标，则需要输入联合体企业的信息。</li>
+                    </ul>
+                    <ol id="ol_vnl_2kh_kzb">
+                        <li>
+                            <p>选择 <b>是</b>。</p>
+                        </li>
+                        <li>
+                            <p>点击 <b>＋</b>，输入联合企业名称，选择联合企业规模，填写占比。</p>
+                            <p><image href="../images/image13.png" scope="external"
+                                    id="image_hvs_gkh_kzb"/></p>
+                        </li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>供应商根据本次参与项目的实际情况，选择是否合同分包。 </cmd>
+                <info>
+                    <p><image href="../images/image14.png" scope="external" id="image_bmb_lkh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>选择 <b>服务承接商</b>。</cmd>
+                <info>
+                    <p><image href="../images/image17.png" scope="external" id="image_uln_nkh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>确认基本信息无误后，点击 <b>下一步</b>，进入 <b>制作和导入投标（响应）文件 </b>页面。</cmd>
+                <info>
+                    <p><image href="../images/image18.png" scope="external" id="image_myr_nkh_kzb"
+                        /></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

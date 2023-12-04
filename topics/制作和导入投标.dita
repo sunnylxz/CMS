@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task0">
+    <title>制作和导入投标（响应）文件 </title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>供应商根据采购文件的要求，导入各类投标文件 ，例如资格要求、报价要求、商务技术要求。 </context>
+        <steps>
+            <step>
+                <cmd
+                    conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/cmd_bbr_w15_mzb"
+                />
+            </step>
+            <step>
+                <cmd> 在 <b>制作和导入投标（响应）文件</b> 页面，逐个响应标项的资格要求，点击 <b>要求说明</b>，查看具体的条件说明。 </cmd>
+                <info>
+                    <p><image href="../images/image19.png" scope="external" id="image_myr_nkh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>响应报价要求和商务技术要求，点击 <b>立即导入</b>，上传PDF格式文件。</cmd>
+                <info>
+                    <p><image href="../images/image20.png" scope="external" id="image_ims_1lh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>所有响应文件导入完成，点击 <b>下一步</b>，进入关联标书环节。 </cmd>
+                <info>
+                    <p><image href="../images/image21.png" scope="external" id="image_o22_blh_kzb"
+                        /></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_jhy_3zq_qwb">
+  <title>防止静电释放的接地方法</title>
+  <body>
+    <p>在取放设备时，用户可采取以下一种或多种接地方法以防止静电释放。</p>
+    <ul id="ul_khy_3zq_qwb">
+      <li>佩戴防静电腕带，并将腕带的另一端良好接地，请将腕带紧贴皮肤，且确保其能够灵活伸缩。</li>
+      <li>在工作区内，请穿上防静电服和防静电鞋。</li>
+      <li>请使用导电的现场维护工具。</li>
+      <li>使用防静电的可折叠工具垫和便携式现场维修工具包。</li>
+    </ul>
+  </body>
+</topic>

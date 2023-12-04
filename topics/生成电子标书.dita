@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task0">
+    <title>生成电子标书</title>
+    <shortdesc></shortdesc>
+    <taskbody outputclass="display">
+        <prereq id="prereq_iwm_1nh_kzb">CA锁一直连接在电脑上。</prereq>
+        <context>供应商使用CA生成电子加密标书。 <ul id="ul_gzr_bnh_kzb">
+                <li>如有投标客户端问题，请查看。</li>
+                <li>如有CA问题，请查看。如仍无法解决，请联系相应CA公司客服，详细信息，请查看 。</li>
+            </ul></context>
+        <steps>
+            <step>
+                <cmd
+                    conref="%E7%99%BB%E5%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AF.dita#task0/cmd_bbr_w15_mzb"
+                />
+            </step>
+            <step>
+                <cmd> 在 <b>生成电子标书</b> 页面，点击 <b>立即生成</b>，生成电子加密标书。 </cmd>
+                <info>
+                    <p><image href="../images/image31.png" scope="external" id="image_lbx_xmh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>选择文件保存位置，点击 <b>确定</b>。</cmd>
+                <info>
+                    <p><image href="../images/image32.png" scope="external" id="image_zpr_knh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd>电子标书成功生成，点击 <b>打开所在文件夹</b>，查看标书。点击 <b>前往政采云上传</b>，跳转至政采云平台投标文件上传页面。</cmd>
+                <info>
+                    <p><image href="../images/image33.png" scope="external" id="image_lt5_knh_kzb"
+                        /></p>
+                </info>
+            </step>
+            <step>
+                <cmd> 在 <b>选择CA</b> 弹窗中，选择对应的CA服务商。（本文以浙江汇信CA为例） </cmd>
+            </step>
+        </steps>
+        <result outputclass="display">
+            <p><image href="../images/image34.png" scope="external" id="image_wbx_knh_kzb"/></p>
+            <p>生成两份电子标书，一份为加密标书，一份为备份标书，备份标书未加密。当开标时遇到加密标书解密异常情况，应尽快联系开标人员，将备份标书提供给开标人员，系统支持使用备份标书进行评审。 </p>
+            <p><image href="../images/image35.png" scope="external" id="image_nw1_lnh_kzb"/></p>
+        </result>
+    </taskbody>
+</task>

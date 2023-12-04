@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+    <hasInstance>
+        <subjectdef keys="audienceKey" navtitle="audienceKey">
+            <subjectdef keys="la" navtitle="Los Angeles"/>
+            <subjectdef keys="nyc" navtitle="New York City"/>
+            <subjectdef keys="sf" navtitle="San Francisco"/>
+        </subjectdef>
+        <subjectdef keys="state" navtitle="State">
+            <subjectdef keys="ca" navtitle="California"/>
+            <subjectdef keys="ny" navtitle="New York"/>
+        </subjectdef>
+    </hasInstance>
+    <hasPart>
+        <subjectdef keys="region" navtitle="Region">
+            <subjectdef keyref="ca">
+                <subjectdef keyref="la"/>
+                <subjectdef keyref="sf"/>
+            </subjectdef>
+            <subjectdef keyref="ny">
+                <subjectdef keyref="nyc"/>
+            </subjectdef>
+        </subjectdef>
+    </hasPart>
+    
+    <enumerationdef>
+        <attributedef name="audience"/>
+        <subjectdef keyref="audienceKey"/>
+    </enumerationdef>
+    
+    
+    <enumerationdef>
+        <attributedef name="otherprops"/>
+        <subjectdef keyref="region"/>
+    </enumerationdef>
+    
+    
+    
+</subjectScheme>

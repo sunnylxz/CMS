@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_pr1_3zq_qwb">
+  <title>防止静电释放</title>
+  <body>
+    <p>人体或其他导体释放的静电可能会损坏主板和对静电敏感的部件，由静电造成的损坏会缩短设备的使用寿命。为避免静电损害，请注意以下事项：</p>
+    <ul id="ul_xr1_3zq_qwb">
+      <li>在运输和存储设备时，请将设备装入防静电包装中。</li>
+      <li>防静电包装中取出设备前，请先将设备放置在防静电工作台上，然后再取出。</li>
+      <li>在没有防静电措施的情况下，请勿触摸设备上的插针和电路元器件。</li>
+    </ul>
+  </body>
+</topic>
